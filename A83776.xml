@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order of the right honourable the Commons in high court of Parliament assembled, for appointing a committee of the House, to treat with a committee of the Common-Councell of the city of London, and of the commanders of the souldiers, and commission-officers in the said city; concerning their engagement for the safety and security of His Majesties person, and the Parliament, during the time of the intended personall treaty; with the results of the committee and Common-Councell thereupon. : Die Mercurii, 5. Julii, 1648.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83776</idno>
+            <idno type="STC">Wing E2658</idno>
+            <idno type="STC">ESTC R210959</idno>
+            <idno type="EEBO-CITATION">45097758</idno>
+            <idno type="OCLC">ocm 45097758</idno>
+            <idno type="VID">171349</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171349)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2571:64)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order of the right honourable the Commons in high court of Parliament assembled, for appointing a committee of the House, to treat with a committee of the Common-Councell of the city of London, and of the commanders of the souldiers, and commission-officers in the said city; concerning their engagement for the safety and security of His Majesties person, and the Parliament, during the time of the intended personall treaty; with the results of the committee and Common-Councell thereupon. : Die Mercurii, 5. Julii, 1648.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes, printer to the honourable city of London.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:171349:1"/>
+            <head>An Order of the Right Honourable the Commons in high Court of Parliament aſſembled, For appointing a Committee of the
+Houſe, to treat with a Committee of the Common-councell of the City of London, and of the Commanders of the Souldiers, and Commiſſion Officers
+in the ſaid City; Concerning their Engagement for the ſafety and ſecurity of His Majeſties Perſon, and the Parliament, during the time of the intended
+Perſonall Treaty; with the Reſults of the Committee and Common-Councell thereupon.</head>
+            <opener>
+               <date>Die Mercurii, 5. Julii, 1648.</date>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That it bee referred to a Committee to conferr with the Common-councell of the Citie of <hi>London,</hi> and ſuch as they ſhall appoint, and
+with the Commanders of the Souldiers in <hi>London,</hi> concerning their engagement for the ſafety of the King and Parliament, during the intended Treatie, and touching the manner of the
+ſecurity, <hi>(viz.)</hi> unto</p>
+            <list>
+               <item>
+                  <hi>Mr.</hi> Whitlock</item>
+               <item>
+                  <hi>Mr.</hi> Swinfen</item>
+               <item>
+                  <hi>Mr.</hi> Hungerford</item>
+               <item>
+                  <hi>Mr.</hi> Sam Brown</item>
+               <item>
+                  <hi>Mr.</hi> John Aſhe</item>
+               <item>
+                  <hi>Sir</hi> Martyn Lumley</item>
+               <item>
+                  <hi>Mr.</hi> Bait</item>
+               <item>
+                  <hi>Mr.</hi> John Stephens</item>
+               <item>
+                  <hi>Sir</hi> Dudley North</item>
+               <item>
+                  <hi>Sir</hi> Walter Erle</item>
+               <item>
+                  <hi>Col.</hi> Copley</item>
+               <item>
+                  <hi>Mr.</hi> Salloway</item>
+               <item>
+                  <hi>Mr.</hi> Prideaux</item>
+               <item>
+                  <hi>Sir</hi> Hen. Vain ſen.</item>
+               <item>
+                  <hi>Mr.</hi> Reynolds</item>
+               <item>Major Gen. <hi>Brown</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Robert Harley</item>
+               <item>
+                  <hi>Sir</hi> Tho Withrington</item>
+               <item>
+                  <hi>Sir</hi> Iames Harringt<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</item>
+               <item>
+                  <hi>Mr.</hi> Crew.</item>
+               <item>
+                  <hi>Sir</hi> Ioh. Evelyn <hi>of</hi> Wilts</item>
+               <item>Col. <hi>Ven</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Drake</item>
+               <item>
+                  <hi>Mr.</hi> Doddridge</item>
+               <item>
+                  <hi>Mr.</hi> Edward Stephens</item>
+               <item>
+                  <hi>Mr.</hi> Ellis</item>
+               <item>Mr. Serjeant <hi>Wilde</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Strode</item>
+               <item>
+                  <hi>Mr.</hi> Gell</item>
+               <item>
+                  <hi>Col.</hi> Wilſon</item>
+               <item>
+                  <hi>Mr.</hi> Wheeler</item>
+               <item>
+                  <hi>Mr.</hi> Green</item>
+               <item>
+                  <hi>Col.</hi> Edwards,</item>
+               <item>And the Citizens &amp;
+Burgeſſes of the Ci<g ref="char:EOLhyphen"/>ty
+of <hi>London.</hi>
+               </item>
+            </list>
+            <p>This Committee it to conferre with the Common-councell of the City of <hi>London,</hi> and ſuch as they ſhall appoint, and with the Commanders of the Souldiers in <hi>London,</hi> concerning their en<g ref="char:EOLhyphen"/>gagement
+for the ſafety of the King and Parliament, during the intended Treatie, and touching the manner of their <hi>Security.</hi>
+            </p>
+            <closer>
+               <signed>H. Eſſyng Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>Commune Concilium tent. ſexto die Julii, Anno Dom. 1648. Anno<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> regni Regis Caroli Angliae, &amp;c. Viceſimo quarto.</head>
+            <p>TO this Common-councell came divers Members of the honorable Houſe of Commons, as a Committee appointed by that Houſe; And after ſome ſhort preamble
+made by Sir <hi>Robert Harley</hi> Knight, and <hi>Giles Green</hi> Eſquire, they preſented an Order of the ſaid Houſe, made the Fifth day of this inſtant July; whereby the ſaid Com<g ref="char:EOLhyphen"/>mittee
+are authorized to conferr with this Common-councell, and ſuch as they ſhall appoint, and with the Commanders of the Souldiers in <hi>London,</hi> concerning their
+Engagement for the ſafety of the King and Parliament during the intended Treatie, and touching the manner of their ſecurity; The which Order was here openly read, and the ſame
+Committee having withdrawn themſelves, this Court took this buſineſs, being of great concernment, into debate and conſideration; and do declare, <hi>That if His Majeſty ſhall come
+up to the City of</hi> London, <hi>there to Treat with His Parliament for the ſetling of a ſafe and wel-grounded Peace, this Court (as much as in them lyeth) will (by the bleſsing of God;
+defend His Majeſties Royall perſon, and the Parliament, in honour and ſafety, againſt all violence whatſoever, with their lives and eſtates during this Treaty according to the Covenant.</hi>
+And further in purſuance of the ſaid Order, it is ordered by this Court, That Mr. Alderman <hi>Langham,</hi> Mr. Alderman <hi>Bunce,</hi> Mr. Alderman <hi>Avery,</hi> Mr. Alderman <hi>Bide,</hi> Mr. Alder<g ref="char:EOLhyphen"/>man
+<hi>Packe,</hi> and Mr. Alderman <hi>Brown,</hi> or any three of them; Mr. <hi>Vincent,</hi> Mr. <hi>Edwin Brown,</hi> Mr. <hi>Archer,</hi> Mr. <hi>Nathaniel Hall,</hi> Mr. Dep. <hi>Chamberlain,</hi> Mr. <hi>William Bateman,</hi> Major
+<hi>Chamberlain,</hi> Mr. <hi>Peter Jones,</hi> Mr. Dep. <hi>Clowes,</hi> Mr. Dep. <hi>Glyd,</hi> Mr. <hi>Chetwin,</hi> and Mr. <hi>Milles,</hi> or any Six of them, ſhall be, and they are by this Court appointed a Committee to confer
+with the ſaid Committee of Parliament: As namely, with Mr. <hi>Whitlock,</hi> Mr. <hi>Swinfen, &amp;c.</hi> touching the manner of the ſecurity for the ſafety of the King and Parliament, du<g ref="char:EOLhyphen"/>ring
+the Treatie; And to conſider what things are fit to be propounded for the better enabling of this Court to perform their ſaid engagement, and all things conducing there<g ref="char:EOLhyphen"/>unto;
+and to this purpoſe, they are alſo to conferr with the Commanders of the Souldiers in the city touching the ſame: And the ſaid Committee appointed by this Common<g ref="char:EOLhyphen"/>councell,
+re to acquaint this Court from time to time of their proceedings and opinions therein.</p>
+            <closer>Michel.</closer>
+         </div>
+         <div type="document">
+            <head>Commune Concilium tentum in Camera Guildhald<g ref="char:abbrapo">’</g> Civit<g ref="char:abbrapo">’</g> London<g ref="char:abbrapo">’</g> undecimo die Iulii, 1648. Annoque regni Domini noſtri Caroli nunc Regis Angliae, &amp;c. Viceſimo quarto.</head>
+            <p>
+               <seg rend="decorInit">A</seg>T this Common-councell the Committee appointed by the Order of this Court made the Sixt day of this inſtant July, to conferr with the Committee aſſigned by Order of the
+honorable Houſe of Commons, concerning the Engagement of this Citie for the ſafetie of the King and Parliament during the intended Treatie, and touching the manner
+of their ſecurity; did now preſent unto this Court a Paper expreſſing their progreſſe and proceedings therein; The which was here openly read, and every particular therein
+conſidered of, and ſome alteration was made in the Anſwers given to the Propoſitions made by the ſaid honorable Committee: The tenor whereof is as followeth; <hi>Viz.</hi>
+            </p>
+            <p>The ſaid honorable Committee did deſire that the Military Forces, and the Court of Common-councell, would ſatisfie them what they intend and mean by thoſe words in
+the Petition of the Military-Officers wherein the Petition of the Common-councell to the Parliament doe concurre; Viz. <hi>[That the King and Parliament may meet and Treat with
+Freedome, Honor, and Safety, according to the ancient Fundamentall Conſtitutions of this Kingdom.</hi>
+            </p>
+            <p>To this the Committee of Common-councell made anſwer as followeth; <hi>Viz.</hi> By theſe words [The King and Parliament may meet and Treat with Honor, Freedome, and Safety, according
+to the ancient Fundamentall conſtitutions of this Kingdom] wee mean, That the King and Parliament may meet and Treat free from force or violence, which wee conceive to be according to
+the ancient Fundamentall conſtitutions of this Kingdom.</p>
+            <p>The ſaid honorable Committee did further deſire, that the Committee of Common-councell would ſatisfie them, what is meant by theſe words; <hi>viz. [That they will defend His Majeſties royall
+Perſon, and the Parliament, during the Treatie, according to their Covenant.]</hi>
+            </p>
+            <p>The Committee of Common-councell did give anſwer thereunto as followeth; <hi>Viz.</hi> By thoſe words [To defend the King and Parliament according to the Covenant] we mean, That during
+the Treatie, wee will defend the King and Parliament (as much as in us lyeth) free from all force and violence.</p>
+            <p>The ſaid honorable Committee did further deſire, that the Committee of Common-councell ſhould ſatisfie them, what they intend and meane in the Petition of the Military Officers, wherein
+the Petition of the Common-councell concur) by the word <hi>[Freedome]</hi> in the laſt clauſe; and likewiſe what they mean by theſe words <hi>[otherwiſe interrupt.]</hi>
+            </p>
+            <p>To this the Committee of the Common-councell gave the ſeverall anſwers following, <hi>Viz.</hi> By the word [Freedome] we underſtand free from force and violence; and by the words [otherwiſe
+interrupt] we mean all hoſtile forces whatſoever; the which anſwers were approved of by this Court.</p>
+            <p>The ſaid honorable Committee did further propound, that in caſe the Parliament ſhall make choice of this Citie to bee the place of the Treaty, and that the Common-councell on the behalf
+of the Citie, doe ingage themſelves to defend both King and Parliament from violence during the Treaty, <hi>[whether the City will maintain their guards at their own charge.]</hi>
+            </p>
+            <p>To which the Committee of Common-councell did anſwer, That the ſame being a matter of charge, muſt be reſolved by Common-councell, and that they would acquaint the Common-councell
+therewith; Concerning this queſtion, this Court did take the ſame into their ſerious conſideration, and after ſome debate had thereupon, this Court declared, That if the ſaid intended Treaty be in
+<hi>London,</hi> that then the City will for the preſent defray the charge for the maintaining of the Military Guards, for the purpoſe aforeſaid, during the Treatie, and afterwards referre themſelves to the
+King and Parliament for ſatisfaction thereof.</p>
+            <p>The ſaid honorable Committee did further propoſe, that in caſe the King ſhall not conſent and agree to ſuch things as ſhall be propounded and inſiſted on by both Houſes of Parliament, in this
+Treatie for a ſafe and well-grounded Peace, <hi>[whether they will undertake and engage that the Perſon of the King ſhall be diſpoſed of as both Houſes of Parliament ſhall thinke fit.]</hi>
+            </p>
+            <p>To which the ſaid Committee of Common-councell did anſwer as followeth, <hi>viz.</hi> Under the favour of this honorable Committee, we cannot underſtand by the Order of the honorable Houſe
+of Commons, which was delivered unto us for this Treatie, That there is any thing therein mentioned, tending to that which is by this honorable Committee propounded, concerning the delivery
+up of the King in caſe the King and Parliament did not agree.</p>
+            <p>
+               <hi>And the ſaid honorable Committee did further declare,</hi> [that they were not ſatisfied with this anſwer, concerning the diſpoſing of the Kings Perſon, in caſe the King and Parliament did not agree; and did ex<g ref="char:EOLhyphen"/>pect
+a further anſwer.</p>
+            <p>To which the Committee of Common-councell did anſwer and ſay, That they would acquaint the Common-councell therewith; Concerning which propoſition this Court did take the ſame in<g ref="char:EOLhyphen"/>to
+their ſerious conſideration, and upon a full and large debate thereupon, did declare, That in caſe the ſaid intended Treaty ſhal be in <hi>London,</hi> and that His Majeſty and His Parliament ſhould not agree
+(which God forbid) then they conceive themſelves bound to ſubmit to the wiſdome of both Houſes of Parliament.</p>
+            <p>
+               <hi>The ſaid Honorable Committee did likewiſe deſire</hi> [that the Committee of Common-councell, and the Military Officers, ſhould ſatisfie them in what manner, and by what meanes, they will make good their
+engagement, by defending the King and Parliament againſt all violence.]</p>
+            <p>To which the Committee of Common-councell made anſwer and propounded as followeth, <hi>viz.</hi> We do declare, and we are ready according to our engagement, (as much as in us lyeth) by the
+Trained-Bands of the City, and the late Lines of Communication, to guard and defend the King and Parliament from all force and violence. And to the end that we may be inabled to per<g ref="char:EOLhyphen"/>form
+the ſame, we doe humbly offer, That the Ordinance for the uniting of the Military Forces within the late Lines of Communication, and the Pariſhes of the weekly Bills of Mortality, to
+the Forces of the City, to be one intire Militia, may be ſpeedily paſſed.</p>
+            <p>That the Militia may be enabled to raiſe ſuch other Forces as they ſhall find needfull, to carry them through this ſervice; And that no other Forces may be raiſed, or made uſe of within this
+City and late Lines of Communication, but by authority of the ſaid Militia by conſent of Common-councell.</p>
+            <p>To conſider that our dangers are either from without or from within, and therefore propounded, <hi>Viz.</hi> For thoſe without, that for our better ſecurity in garding the King and Parliament,
+wee deſire that ſome courſe may bee taken as ſhall be thought fit by Wiſedome of Parliament, that no Forces, in Armes may come within 30. miles of <hi>London</hi> during the time of the Treaty; And
+for thoſe within, that what perſon or perſons ſoever ſhall make any Tumult, Inſurrection or diſturbance, during the time of this Treaty, after Proclamation made, it ſhall be death.</p>
+            <p>That if the Wiſedome of Parliament ſhall think fit, that none that have born Armes againſt the Parliament, or have or ſhall contribute thereunto ſhall bee permitted during the ſaid Treaty to
+come within 30. miles of <hi>London,</hi> without leave of the Parliament had or to be had.</p>
+            <p>Concerning this deſire or propoſition of the ſaid honorable Committee, this Court doth approve of the Anſwers thereunto and Propoſitions made touching the ſame. And this Court doth
+order that the ſaid Committee of Common-councell ſhall communicate unto the ſaid Honorable Committee, the aforeſaid Anſwers and Propoſitions of this Court to bee by them preſented unto
+both Houſes of Parliament. And alſo to declare unto them, that it is the humble deſire of this Court, that the ſaid Treaty may bee with all expedition, for the preventing of further inconveni<g ref="char:EOLhyphen"/>ences.
+And likewiſe that this Court will doe their endeavours (if the ſaid Treaty bee in <hi>London)</hi> for the finding out of ſome convenient place within the Citie for that purpoſe, and ſuch other
+accommodations as ſhall be fitting.</p>
+            <p>It is Ordered by this Common-councell, That the Common-councell-men and Commanders, or ſuch as they ſhall appoint, ſhall within their ſeverall Precincts, either by calling all the Inhabi<g ref="char:EOLhyphen"/>tants
+before them, or by their going from houſe to houſe receive their concurrence to the ſaid Engagement by ſubſcription of their names.</p>
+            <closer>Michel.</closer>
+         </div>
+         <div type="document">
+            <head>Commune Concilium tent<g ref="char:abbrapo">’</g> in camera Guilhald<g ref="char:abbrapo">’</g> civit<g ref="char:abbrapo">’</g> London, duo decimo die Iulii, 1648. Anno<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> regni Domini noſtri Caroli nunc Regis Angliae, &amp;c. Viceſimo quarto.</head>
+            <p>IT is Ordered by this Court, that the Committee appointed by the Common-councell the ſixthday of this inſtant <hi>Iuly,</hi> to conferr with the Committee aſſigned by Order of the Honorable Houſe
+of Commons, concerning the ingagement of this City for the ſafety of the King and Parliament, during the intended Treaty, ſhall forthwith take care to diſperſe unto the Aldermen, Deputies,
+Common-councell-men, and Commanders in the reſpective Wards within this City, the Acts and reſolutions of this Court, touching the ſame Engagement paſſed the 11. day of this moneth, and that
+under the ſame, theſe words be written, <hi>viz.</hi>
+            </p>
+            <p>Wee whoſe names are hereunto ſubſcribed, do Engage with the Common-councell, Commanders and Commiſſion Officers of the City of <hi>London</hi> in their Engagement above mentioned, and pro<g ref="char:EOLhyphen"/>miſe
+with our lives and fortunes by the bleſſing of God to performe the ſame.</p>
+            <p>It is Ordered that all Maſters of Families bee deſired to ſubſcribe in one column, and their ſons, and men-ſervants and Inhabitants above ſixteen yeers of age to ſubſcribe in another column.</p>
+            <p>It is Ordered that the ſaid Committee ſhall take an account of the Common-councell-men and Commanders of their proccedings herein, in writing, and return the ſame unto this Court with all
+expedition.</p>
+            <closer>Michel.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Richard Cotes,</hi> Printer to the Honorable City of <hi>London.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
